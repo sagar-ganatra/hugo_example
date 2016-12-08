@@ -1,0 +1,12 @@
+<!DOCTYPE HTML>
+<html>
+  <head>
+    <title>{{ .Title }}</title>
+  </head>
+  <body>
+    {{ partial "nav.html" . }}
+    <h2>{{ .Title }}</h2>
+    {{ .Content }}
+    <h6>Published on: {{ .Date.Format "Mon 2, Jan 2016" }}</h6>
+  </body>
+</html>

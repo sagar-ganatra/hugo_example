@@ -1,0 +1,13 @@
+{{ partial "header.html" . }}
+  <body>
+    {{ partial "nav.html" . }}
+    {{ range .Data.Pages }}
+      {{ if or (eq .Type "posts") (eq .Type "posts-series") }}
+        <h3>
+          <a href={{ .Permalink }}>{{ .Title }}</a>
+        </h3>
+        {{ .Render "summary" }}
+      {{ end }}
+    {{ end }}
+  </body>
+</html>

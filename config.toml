@@ -1,0 +1,4 @@
+languageCode = "en-us"
+baseurl = "http://localhost:9999/"
+title = "My New Hugo Site"
+theme = "theme_dummy"

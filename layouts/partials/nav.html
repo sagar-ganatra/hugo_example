@@ -1,0 +1,8 @@
+<nav>
+  {{ range .Site.Pages }}
+    {{ if eq .Type "pages" }}
+      <a href="{{ .Permalink }}">{{ .Title }}</a>
+    {{ end }}
+  {{ end }}
+  <a href="{{ .Site.BaseURL }}">Home</a>
+</nav>
