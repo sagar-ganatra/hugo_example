@@ -1,4 +1,6 @@
 {{ partial "header.html" . }}
+  <link href="{{ .Site.BaseURL }}css/{{ index .Site.Data.code_assets.assets_css "pages/home/index.css" }}" rel="stylesheet" type="text/css">
+  </head>
   <body>
     {{ partial "nav.html" . }}
     {{ range .Data.Pages }}
@@ -9,5 +11,7 @@
         {{ .Render "summary" }}
       {{ end }}
     {{ end }}
+    <button id="aboutMeBtn">READ ABOUT ME</button>
+    {{ partial "scripts" . }}
   </body>
 </html>
