@@ -1,0 +1,1 @@
+function aboutMe(){this.onAboutMeBtnClick=function(){alert("About me")},this.after("initialize",function(){this.on("click",this.onAboutMeBtnClick)})}var AboutMeBtn=flight.component(aboutMe);AboutMeBtn.attachTo("#aboutMeBtn");

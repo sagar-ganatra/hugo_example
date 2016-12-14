@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>http://localhost:9999/</loc>
+    <lastmod>2016-12-06T20:46:17+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:9999/posts/series/first-post/</loc>
+    <lastmod>2016-12-06T20:46:17+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:9999/contact-us</loc>
+    <lastmod>2016-12-06T13:43:12+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:9999/about-us</loc>
+    <lastmod>2016-12-06T13:42:31+05:30</lastmod>
+  </url>
+  
+</urlset>

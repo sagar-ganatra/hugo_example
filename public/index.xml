@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>http://localhost:9999/index.xml</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 06 Dec 2016 20:46:17 +0530</lastBuildDate>
+    <atom:link href="http://localhost:9999/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>series post 1</title>
+      <link>http://localhost:9999/posts/series/first-post/</link>
+      <pubDate>Tue, 06 Dec 2016 20:46:17 +0530</pubDate>
+      
+      <guid>http://localhost:9999/posts/series/first-post/</guid>
+      <description>&lt;p&gt;First post in the series.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Contact Us</title>
+      <link>http://localhost:9999/contact-us</link>
+      <pubDate>Tue, 06 Dec 2016 13:43:12 +0530</pubDate>
+      
+      <guid>http://localhost:9999/contact-us</guid>
+      <description>&lt;p&gt;Contact Us page here.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>About Us</title>
+      <link>http://localhost:9999/about-us</link>
+      <pubDate>Tue, 06 Dec 2016 13:42:31 +0530</pubDate>
+      
+      <guid>http://localhost:9999/about-us</guid>
+      <description>&lt;p&gt;About Us page here.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
