@@ -2,7 +2,8 @@ dependencies:
   pre:
     - wget https://github.com/spf13/hugo/releases/download/v0.17/hugo_0.17-64bit.deb
     - sudo dpkg -i hugo*.deb
-
+  post:
+    - find . -name 'hugo*.deb*' -delete
 test:
   override:
     - exit 0
