@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts-rsses on My New Hugo Site</title>
+    <link>https://sagar-ganatra.github.io/hugo_example/posts/index.xml</link>
+    <description>Recent content in Posts-rsses on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 06 Dec 2016 20:46:17 +0530</lastBuildDate>
+    <atom:link href="https://sagar-ganatra.github.io/hugo_example/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>series post 1</title>
+      <link>https://sagar-ganatra.github.io/hugo_example/posts/series/first-post/</link>
+      <pubDate>Tue, 06 Dec 2016 20:46:17 +0530</pubDate>
+      
+      <guid>https://sagar-ganatra.github.io/hugo_example/posts/series/first-post/</guid>
+      <description>&lt;p&gt;First post in the series.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>blog post 1</title>
+      <link>https://sagar-ganatra.github.io/hugo_example/posts/blog-post-1/</link>
+      <pubDate>Mon, 05 Dec 2016 20:00:53 +0530</pubDate>
+      
+      <guid>https://sagar-ganatra.github.io/hugo_example/posts/blog-post-1/</guid>
+      <description>&lt;p&gt;My first blog post&lt;/p&gt;
+
+&lt;p&gt;
+Content for the first blog post&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

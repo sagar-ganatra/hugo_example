@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages-rsses on My New Hugo Site</title>
+    <link>https://sagar-ganatra.github.io/hugo_example/pages/index.xml</link>
+    <description>Recent content in Pages-rsses on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 06 Dec 2016 13:43:12 +0530</lastBuildDate>
+    <atom:link href="https://sagar-ganatra.github.io/hugo_example/pages/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Contact Us</title>
+      <link>https://sagar-ganatra.github.io/hugo_example/contact-us</link>
+      <pubDate>Tue, 06 Dec 2016 13:43:12 +0530</pubDate>
+      
+      <guid>https://sagar-ganatra.github.io/hugo_example/contact-us</guid>
+      <description>&lt;p&gt;Contact Us page here.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>About Us</title>
+      <link>https://sagar-ganatra.github.io/hugo_example/about-us</link>
+      <pubDate>Tue, 06 Dec 2016 13:42:31 +0530</pubDate>
+      
+      <guid>https://sagar-ganatra.github.io/hugo_example/about-us</guid>
+      <description>&lt;p&gt;About Us page here.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

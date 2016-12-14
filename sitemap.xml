@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>https://sagar-ganatra.github.io/hugo_example/</loc>
+    <lastmod>2016-12-06T20:46:17+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sagar-ganatra.github.io/hugo_example/posts/series/first-post/</loc>
+    <lastmod>2016-12-06T20:46:17+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sagar-ganatra.github.io/hugo_example/contact-us</loc>
+    <lastmod>2016-12-06T13:43:12+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sagar-ganatra.github.io/hugo_example/about-us</loc>
+    <lastmod>2016-12-06T13:42:31+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sagar-ganatra.github.io/hugo_example/posts/blog-post-1/</loc>
+    <lastmod>2016-12-05T20:00:53+05:30</lastmod>
+  </url>
+  
+</urlset>
