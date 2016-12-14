@@ -20,6 +20,18 @@
     </item>
     
     <item>
+      <title>blog post 2</title>
+      <link>https://sagar-ganatra.github.io/hugo_example/posts/first-post/</link>
+      <pubDate>Mon, 05 Dec 2016 20:08:38 +0530</pubDate>
+      
+      <guid>https://sagar-ganatra.github.io/hugo_example/posts/first-post/</guid>
+      <description>&lt;p&gt;My second blog post&lt;/p&gt;
+
+&lt;p&gt;
+Content for the second blog post&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>blog post 1</title>
       <link>https://sagar-ganatra.github.io/hugo_example/posts/blog-post-1/</link>
       <pubDate>Mon, 05 Dec 2016 20:00:53 +0530</pubDate>
