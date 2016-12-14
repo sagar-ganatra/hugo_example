@@ -2,10 +2,6 @@ dependencies:
   pre:
     - wget https://github.com/spf13/hugo/releases/download/v0.17/hugo_0.17-64bit.deb
     - sudo dpkg -i hugo*.deb
-  post:
-    - rm -rf public
-    - gulp
-    - hugo
 
 test:
   override:
@@ -15,4 +11,4 @@ deployment:
   staging:
     branch: master
     commands:
-      
+      - ./deploy_gh-pages.sh
