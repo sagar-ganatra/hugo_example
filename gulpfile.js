@@ -73,7 +73,7 @@ gulp.task('compress:pages', ['clean:js:pages'], function () {
              .pipe(gulp.dest('static/js/pages'));
 });
 
-gulp.task('hash:js', function () {
+gulp.task('hash:js', ['compress:pages', 'compress:vendor'], function () {
   return gulp.src('static/js/**/*.js')
              .pipe(hash({
                template: '<%= name %>_<%= hash %><%= ext %>'
@@ -95,7 +95,7 @@ gulp.task('hash:css', ['css:src', 'css:vendor'], function () {
 
 gulp.task('watch', function () {
   gulp.watch(['src/styles/**/*.scss'], ['hash:css']);
-  gulp.watch(['src/js/**/*.js'], ['compress:src', 'compress:vendor', 'hash:js']);
+  gulp.watch(['src/js/**/*.js'], ['hash:js']);
 });
 
-// gulp.task('default', ['css', 'copyJSFiles', 'js']);
+gulp.task('default', ['hash:css', 'hash:js']);
