@@ -1,4 +1,4 @@
 languageCode = "en-us"
-baseurl = "http://localhost:9999/"
+baseurl = "https://sagar-ganatra.github.io/hugo_example/"
 title = "My New Hugo Site"
 theme = "theme_dummy"

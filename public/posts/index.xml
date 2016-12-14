@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts-rsses on My New Hugo Site</title>
-    <link>http://localhost:9999/posts/index.xml</link>
+    <link>https://sagar-ganatra.github.io/hugo_example/posts/index.xml</link>
     <description>Recent content in Posts-rsses on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 06 Dec 2016 20:46:17 +0530</lastBuildDate>
-    <atom:link href="http://localhost:9999/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://sagar-ganatra.github.io/hugo_example/posts/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>series post 1</title>
-      <link>http://localhost:9999/posts/series/first-post/</link>
+      <link>https://sagar-ganatra.github.io/hugo_example/posts/series/first-post/</link>
       <pubDate>Tue, 06 Dec 2016 20:46:17 +0530</pubDate>
       
-      <guid>http://localhost:9999/posts/series/first-post/</guid>
+      <guid>https://sagar-ganatra.github.io/hugo_example/posts/series/first-post/</guid>
       <description>&lt;p&gt;First post in the series.&lt;/p&gt;
 </description>
     </item>
