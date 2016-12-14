@@ -1,6 +1,6 @@
 +++
 date = "2016-12-05T20:08:38+05:30"
-draft = true
+draft = false
 title = "blog post 2"
 slug = "first-post"
 +++
