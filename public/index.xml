@@ -39,5 +39,17 @@
 </description>
     </item>
     
+    <item>
+      <title>blog post 1</title>
+      <link>https://sagar-ganatra.github.io/hugo_example/posts/blog-post-1/</link>
+      <pubDate>Mon, 05 Dec 2016 20:00:53 +0530</pubDate>
+      
+      <guid>https://sagar-ganatra.github.io/hugo_example/posts/blog-post-1/</guid>
+      <description>&lt;p&gt;My first blog post&lt;/p&gt;
+
+&lt;p&gt;
+Content for the first blog post&lt;/p&gt;</description>
+    </item>
+    
   </channel>
 </rss>
