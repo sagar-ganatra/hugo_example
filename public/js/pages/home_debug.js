@@ -5,7 +5,7 @@ var AboutMeBtn = flight.component(aboutMe);
 function aboutMe () {
   // event listener for the click event
   this.onAboutMeBtnClick = function () {
-    alert('About me');
+    alert('Button clicked!');
   };
 
   // after the component has been initialized, attched the event listener
